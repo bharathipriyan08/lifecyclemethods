@@ -31,8 +31,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “Hello World”.
-Developed by: AKASH A
-Registeration Number :212221040010
+Developed by: Bharathi priyan T
+Registeration Number :212221040028
 */
 ```
 #ACTIVITY_MAIN.XML
